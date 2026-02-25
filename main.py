@@ -17,10 +17,8 @@ from dotenv import load_dotenv
 from hydrogram import Client, filters
 from hydrogram.types import Message
 
-# Load environment variables from .env file
 load_dotenv()
 
-#Define Client
 app = Client(
     "pro",
     api_hash=os.getenv("API_HASH"),
