@@ -11,11 +11,11 @@ A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 wheneve
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-DDubey&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SK1LLFUL&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-DDubey&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK1LLFUL&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 wheneve
 ## Session String Generator  
 To run this bot, you need a **Telegram session string**. Use my **SessionString** repository to generate one easily:  
 
-[**SessionString Repo**](https://github.com/Harsh-DDubey/StringSession)  
+[**SessionString Repo**](https://github.com/SK1LLFUL/StringSession)  
 
 Follow the instructions in the repository to generate your session string and use it in the `.env` file.  
 
@@ -41,7 +41,7 @@ Follow the instructions in the repository to generate your session string and us
 ### Installation on PC/Linux  
 First, **clone the repository** and navigate to the project directory:  
 ```sh
-git clone https://github.com/Harsh-DDubey/AutoMatedSpam.git  
+git clone https://github.com/SK1LLFUL/AutoMatedSpam.git  
 cd AutoMatedSpam  
 ```  
 
@@ -76,7 +76,7 @@ pip install --upgrade pip
 
 2. **Clone the repository and navigate to it:**  
 ```sh
-git clone https://github.com/Harsh-DDubey/AutoMatedSpam.git  
+git clone https://github.com/SK1LLFUL/AutoMatedSpam.git  
 cd AutoMatedSpam  
 ```
 
@@ -116,7 +116,7 @@ python main.py
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-DDubey&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SK1LLFUL&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 ---
